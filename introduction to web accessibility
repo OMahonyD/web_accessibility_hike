@@ -1,6 +1,6 @@
 #Introduction
 
-Today we are going to talk about web accessibility.
+Today we are going to talk about web accessibility and what it means to build inclusive applications and websites. 
 
 So if we were to type the word "accessibility" into Google we might get the definition:
 
@@ -8,10 +8,11 @@ So if we were to type the word "accessibility" into Google we might get the defi
 
 If we extend that definition into the area of the *Internet* we might arrive at the phrase:
 
-"Designing your site or application in such a way so that people with disabilities can perceive, understand, navigate 
-and interact with it easily and enjoyably."
+"Designing your site or application in such a way so that people with disabilities can perceive, understand, navigate and interact with it easily and enjoyably."
 
-While this is true, accessible design is more about designing for everyone.
+While this is true, accessible and inclusive design is more about creating something that can be used by everyone.
 
 The web is fundamentally designed to work for all people, whatever their hardware, software, language, culture, location, a
 and also their physical and mental ability.
+
+By incorporating certain techniques in our code and being mindful of best practice guidelines in our designs we can truly contribute to an inclusive Web experience for everybody.
