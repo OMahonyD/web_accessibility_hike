@@ -16,3 +16,29 @@ The web is fundamentally designed to work for all people, whatever their hardwar
 and also their physical and mental ability.
 
 By incorporating certain techniques in our code and being mindful of best practice guidelines in our designs we can truly contribute to an inclusive Web experience for everybody.
+
+#Introduction
+
+Today we are going to talk about web accessibility and what it means to build inclusive applications and websites. 
+
+So if we were to type the word "accessibility" into Google we might get the definition:
+
+"The design of products, services and environments for people with disabilities."
+
+If we extend that definition into the area of the *Internet* we might arrive at the phrase:
+
+"Designing your site or application in such a way so that people with disabilities can perceive, understand, navigate and interact with it easily and enjoyably."
+
+While this is true, accessible and inclusive design is more about creating something that can be used by everyone.
+
+The web is fundamentally designed to work for all people, whatever their hardware, software, language, culture, location, and also their physical and mental ability.
+
+By incorporating certain techniques in our code and being mindful of best practice guidelines in our designs we can truly contribute to an inclusive Web experience for everybody.
+
+Moving on from here we are firstly going to talk about why we should embrace web accessibility before examining the areas of accessible design: visual, auditory, cognitive and motor.
+
+So for now, the word to remember is POUR. 
+
+P.O.U.R.
+
+When designing and coding try to ensure that your site is 
